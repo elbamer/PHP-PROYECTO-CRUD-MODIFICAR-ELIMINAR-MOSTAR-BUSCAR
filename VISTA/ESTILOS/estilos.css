@@ -1,0 +1,73 @@
+body{
+    
+    background-color:rgb(116, 192, 192);
+    display: flex;
+    display: block;
+margin: 15% 27%;
+}
+#containermenu{
+    background-color: rgb(218, 213, 213);
+    display: flex;
+    display: block;
+    box-shadow: 5px 5px 5px 5px black;
+    text-align: center;
+    padding: 1em;
+    margin-top: -25%;
+    color:rgb(82, 100, 100)
+}
+/*PHP UPDATE*/
+.tablaUpdate{
+   text-align: center;
+  background-color: black;
+}
+#containerUpdate {
+margin-right: 25%;
+   margin-top: -30%;
+
+}
+#containerUpdate table{
+    background-color: rgb(208, 212, 203);
+    width: 150%;
+}
+#containerUpdate table input {
+    background-color: rgba(228, 228, 228, 0.788);
+    width: 102%;
+   
+}
+#containerUpdate h2{
+    width: 150%;
+    text-align: center;
+}
+
+.datos{background-color: cadetblue;
+    text-align: center;
+
+    margin-top: -30%;
+    box-shadow: 7px 7px 7px 7px black;
+
+}
+.datos table{
+    width: 100%;
+}
+.borrar{
+    background-color:rgb(233, 229, 229);
+    margin-top: -20%;
+    box-shadow: 5px 5px 5px 5px rgb(240, 233, 233);
+}
+.borrar table{
+    text-align: center;
+    width: 100%;
+}
+.borrar h2{
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px rgb(250, 250, 250);
+    padding-top: 2%;
+}
+fieldset{
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    padding-top: 10%;
+   
+ 
+}
